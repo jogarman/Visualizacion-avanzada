@@ -1,5 +1,7 @@
 # Visualización avanzada
 
+## Projecto del máster
+
 Infografía en la que se prenden crear gráficos con los que entender los datos de un vistazo. 
 La tarea trata de acercar al alumno a gráficos que salgan de lo habitual. Todos han sido generados en python.
 Una visualización de datos es una historia con el menor número de texto posible
