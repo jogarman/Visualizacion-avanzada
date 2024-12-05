@@ -1,4 +1,4 @@
-**Visualización avanzada**
+# Visualización avanzada
 
 Infografía en la que se prenden crear gráficos con los que entender los datos de un vistazo. 
 La tarea trata de acercar al alumno a gráficos que salgan de lo habitual. Todos han sido generados en python.
